@@ -1,2 +1,21 @@
-{"theme_color":"#8936FF","background_color":"#2EC6FE","icons":[{"purpose":"maskable","sizes":"512x512","src":"icon512_maskable.png","type":"image/png"},{"purpose":"any","sizes":"512x512","src":"icon512_rounded.png","type":"image/png"}],"orientation":"any","display":"standalone","dir":"auto","lang":"pt-BR","name":"CriandoPwa","short_name":"CriandoPWa","scope":"/criando-pwa",
-"start_url": "/criando-pwa"}
+{
+"theme_color":"#8936FF",
+"background_color":"#2EC6FE",
+"display":"fullscren",
+"scope":"/criando-pwa",
+"start_url": "/criando-pwa",
+"name":"CriandoPwa",
+"short_name":"CriandoPWa",
+"icons":[{
+"purpose":"maskable",
+"sizes":"512x512",
+"src":"/icon512_maskable.png",
+"type":"image/png"},
+
+{"purpose":"any",
+"sizes":"512x512",
+"src":"/icon512_rounded.png",
+"type":"image/png"}],
+"orientation":"any",
+"dir":"auto","lang":"pt-BR"
+}
