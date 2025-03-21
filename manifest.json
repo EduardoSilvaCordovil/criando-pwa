@@ -1,7 +1,7 @@
 {
 "theme_color":"#8936FF",
 "background_color":"#2EC6FE",
-"display":"fullscren",
+"display":"fullscreen",
 "scope":"/criando-pwa",
 "start_url": "/criando-pwa",
 "name":"CriandoPwa",
